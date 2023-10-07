@@ -48,7 +48,6 @@ size  material      color
 10    hemp canvas   natural
 11    glass         transparent
 
-Table: Shoes, their sizes, and what they're made of
 
 (The above is the caption for the table.) Pandoc also supports
 multi-line tables:
