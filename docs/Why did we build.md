@@ -32,11 +32,6 @@ size  material      color
 9     leather       brown
 10    hemp canvas   natural
 11    glass         transparent
-
-
-(The above is the caption for the table.) Pandoc also supports
-multi-line tables:
-
 --------  -----------------------
 keyword   text
 --------  -----------------------
