@@ -19,8 +19,6 @@ Now a nested list:
  3. Dump everything in the pot and follow
     this algorithm:
 
-    Do not bump wooden spoon or it will fall.
-
 Notice again how text always lines up on 4-space indents (including
 that last line which continues item 3 above).
 
