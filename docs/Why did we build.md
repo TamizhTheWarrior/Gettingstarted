@@ -16,9 +16,6 @@ Now a nested list:
 
  2. Boil some water.
 
- 3. Dump everything in the pot and follow
-    this algorithm:
-
 Here's a link to [a website](http://foo.bar), to a [local
 doc](local-doc.html), and to a [section heading in the current
 doc](#an-h2-header). Here's a footnote [^1].
