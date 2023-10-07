@@ -8,6 +8,8 @@ delimited block for Pandoc to syntax highlight it:
 
 Now a nested list:
 
+Data
+
  1. First, get these ingredients:
 
       * carrots
