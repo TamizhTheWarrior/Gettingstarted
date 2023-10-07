@@ -2,11 +2,6 @@ An h2 header
 ------------
 
 As you probably guessed, indented 4 spaces. By the way, instead of
-~~~
-define foobar() {
-    print "Welcome to flavor country!";
-}
-~~~
 
 (which makes copying & pasting easier). You can optionally mark the
 delimited block for Pandoc to syntax highlight it:
