@@ -17,10 +17,6 @@ Data
 
  2. Boil some water.
 
-Here's a link to [a website](http://foo.bar), to a [local
-doc](local-doc.html), and to a [section heading in the current
-doc](#an-h2-header). Here's a footnote [^1].
-
 [^1]: Footnote text goes here.
 
 Tables can look like this:
