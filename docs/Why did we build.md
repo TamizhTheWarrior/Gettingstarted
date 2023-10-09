@@ -2,7 +2,6 @@ An h2 header
 ------------
 
 (which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it:
 
 ### An h3 header ###
 
