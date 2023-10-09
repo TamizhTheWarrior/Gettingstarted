@@ -7,8 +7,6 @@ An h2 header
 
 Now a nested list:
 
-Data
-
  1. First, get these ingredients:
 
       * carrots
