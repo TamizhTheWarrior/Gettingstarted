@@ -1,4 +1,4 @@
-### Update article
+### Update article with publish
 
 An h2 header
 ------------
