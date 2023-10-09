@@ -5,7 +5,6 @@ An h2 header
 
 ### An h3 header ###
 
-Now a nested list:
 
  1. First, get these ingredients:
 
