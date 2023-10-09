@@ -1,11 +1,11 @@
+### Update article
+
 An h2 header
 ------------
 
 (which makes copying & pasting easier). You can optionally mark the
 
 ### An h3 header ###
-
-
  1. First, get these ingredients:
 
       * carrots
